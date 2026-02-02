@@ -1,68 +1,61 @@
-# 🎬 Movie Ticket Booking System
+# 🍽️ Royal Taste – Fine Dining Restaurant Website
 
-A modern web-based application that enables users to book movie tickets online quickly, securely, and conveniently.
+**Royal Taste** is a modern, fully responsive fine-dining restaurant website developed using **HTML, CSS, and Vanilla JavaScript**.  
+The project reflects a **premium dining experience** through elegant UI design, smooth animations, and interactive components that enhance user engagement.
 
 ---
 
 ## 📌 Project Overview
 
-- Web-based movie ticket booking platform 🎟️  
-- Eliminates the need to visit physical theaters 🏢❌  
-- Designed for a smooth, fast, and user-friendly experience  
+- Premium fine-dining restaurant website concept 🍽️  
+- Focus on elegant visuals and smooth user interactions  
+- Fully responsive across Mobile, Tablet, and Desktop devices 📱💻  
+- Built using core frontend technologies without frameworks  
 
 ---
 
-## ✨ Key Features
+## 🌟 Features
 
-- 🔐 Secure user authentication (Sign up / Login)  
-- 🎥 Browse currently running and upcoming movies  
-- ⏰ Easy showtime selection  
-- 🪑 Interactive real-time seat selection  
-- 💳 Secure payment gateway integration  
-- 📧 Booking confirmation via email  
-
----
-
-## 👤 User Functionalities
-
-- Create and manage user profiles  
-- View booking history  
-- Select movies, showtimes, and preferred seats  
-- Receive booking details instantly after payment  
+- ✨ Luxury-themed UI with modern typography and color palette  
+- 📱 Fully responsive layout for all screen sizes  
+- 🍴 Interactive food menu with category-based filtering  
+- 👨‍🍳 Chef’s Specials carousel with autoplay and swipe support  
+- 🖼️ Image gallery with lightbox preview  
+- ⭐ Customer reviews and testimonials slider  
+- 📝 Table reservation form with input validation  
+- 📩 Newsletter subscription form  
+- 🗺️ Google Maps integration  
+- ⬆️ Scroll-to-top button for better navigation  
+- 🎞️ Smooth scrolling, animations, and parallax effects  
+- ♿ Accessibility and performance optimizations  
 
 ---
 
-## 🛠️ Admin Panel
+## 🛠️ Tech Stack
 
-- ➕ Add, edit, and delete movies  
-- ⏳ Manage showtimes and schedules  
-- 📊 View and manage bookings  
-- ⚙️ Maintain smooth platform operations  
+### 🌐 HTML5
+- Semantic and accessible markup  
+- SEO-friendly page structure  
 
----
+### 🎨 CSS3
+- Custom properties (CSS variables)  
+- Advanced animations and transitions  
+- Responsive layouts using Flexbox and Grid  
 
-## 💻 Technology Stack
-
-| Layer       | Description                          |
-|-------------|--------------------------------------|
-| Frontend    | Responsive and user-friendly UI      |
-| Backend     | Server-side logic and APIs            |
-| Database    | Secure data storage and management   |
-| Payments    | Integrated secure payment gateway    |
-
----
-
-## 🎯 Highlights
-
-- Clean and intuitive UI/UX 🎨  
-- Real-time seat availability 🔄  
-- Secure transactions 🔒  
-- Scalable and efficient architecture 🚀  
+### ⚙️ JavaScript (Vanilla JS)
+- DOM manipulation and event handling  
+- Intersection Observer API  
+- Client-side form validation  
+- Carousel and slider functionality  
 
 ---
 
-## 🌟 Conclusion
+## 📂 Project Structure
 
-The **Movie Ticket Booking System** is a complete digital solution that enhances accessibility, efficiency, and user satisfaction by simplifying the movie ticket booking process for users and administrators alike.
-
----
+```text
+Royal-Taste/
+│
+├── index.html        # Main HTML file
+├── README.md         # Project documentation
+├── assets/           # Images, icons, and fonts
+└── favicon.ico       # Website favicon
